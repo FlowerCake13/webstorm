@@ -112,4 +112,10 @@ window.onload = function() {
 When you refresh the page, all of your information should be there but in newly randomized positions!
 
 ### Stretch Goals
-1. Can you turn this into a dictionary? Create an organized list out of this brainstorm! 
+1. Can you turn this into a dictionary? Create an organized list out of this brainstorm!
+
+### Resources
+- Randomizing https://www.w3schools.com/jsref/jsref_random.asp
+- Local Storage https://www.w3schools.com/html/html5_webstorage.asp
+- Creating Elements https://www.w3schools.com/jsref/met_document_createelement.asp
+- Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
